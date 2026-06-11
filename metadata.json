@@ -1,28 +1,32 @@
 {
-  "name": "ATHellCoin",
-  "symbol": "HELL",
-  "description": "Born in fire. HELL is a meme coin with a deflationary mechanism on the Solana network, where 0.1% of every transaction is burned forever. With each sale, there are fewer coins!!!",
-  "image": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png",
+  "name": "Ionosphere",
+  "symbol": "ION",
+  "description": "A token with an isolated ecosystem protected by a smart contract that prohibits P2P, OTC, arbitrage bots, and the creation of shadow liquidity pools, thereby protecting traders.",
+  "image": "https://raw.githubusercontent.com/babai-men/ion/main/logo.png",
   "external_url": "https://github.com/babai-men/ATHellCoin",
   "attributes": [
     {
       "trait_type": "Mechanism",
-      "value": "Deflationary"
+      "value": "Sterile Zone Lockdown"
     },
     {
-      "trait_type": "Burn Tax",
-      "value": "0.1%"
+      "trait_type": "Transfer Tax",
+      "value": "0.05%"
+    },
+    {
+      "trait_type": "Liquidity",
+      "value": "Meteora Isolated"
     }
   ],
   "extensions": {
-    "twitter": "https://x.com/ATHellCoin",
-    "telegram": "https://t.me/ATHellCoin",
-    "website": "https://github.com/babai-men/ATHellCoin"
+    "twitter": "https://x.com/Ionosphereion",
+    "telegram": "https://t.me/Ionosphere",
+    "website": "https://iono.tilda.ws"
   },
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/babai-men/ion/main/logo.png",
         "type": "image/png"
       }
     ],

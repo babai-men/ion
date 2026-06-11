@@ -1,0 +1,31 @@
+{
+  "name": "ATHellCoin",
+  "symbol": "HELL",
+  "description": "Born in fire. HELL is a meme coin with a deflationary mechanism on the Solana network, where 0.1% of every transaction is burned forever. With each sale, there are fewer coins!!!",
+  "image": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png",
+  "external_url": "https://github.com/babai-men/ATHellCoin",
+  "attributes": [
+    {
+      "trait_type": "Mechanism",
+      "value": "Deflationary"
+    },
+    {
+      "trait_type": "Burn Tax",
+      "value": "0.1%"
+    }
+  ],
+  "extensions": {
+    "twitter": "https://x.com/ATHellCoin",
+    "telegram": "https://t.me/ATHellCoin",
+    "website": "https://github.com/babai-men/ATHellCoin"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
